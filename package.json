@@ -1,0 +1,15 @@
+{
+  "name": "toilette-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.16",
+    "axios": "^1.2.0",
+    "mongodb": "^4.12.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
